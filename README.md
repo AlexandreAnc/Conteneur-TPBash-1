@@ -77,4 +77,8 @@ Réponse :
 
 9) Reconstitution de la phrase
 
-CMD : 
+CMD : echo "$(grep PING alpha/clue.txt | awk '{print $NF}') $(grep IS alpha/clue.txt | awk '{print $NF}') $(grep FUN charlie/secret.txt | awk '{print $NF}')"
+
+Résultat : PING IS FUN
+
+ℹ️ : Number of Fields, donc $NF en awk récupère ici à chaque fois le dernier mot de la ligne
