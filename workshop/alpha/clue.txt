@@ -1,1 +1,2 @@
 Le premier mot est PING
+Le deuxième mot est IS

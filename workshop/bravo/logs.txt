@@ -1,0 +1,8 @@
+GIANTS Engine Runtime 5.0.1 (build date: Oct 18 2012)
+Copyright (c) 2008-2012, GIANTS Software GmbH (www.giants-software.com), All Rights Reserved.
+Copyright (c) 2003-2012, Christian Ammann and Stefan Geiger, All Rights Reserved.
+Application: FarmingSimulator2013Demo
+Main System
+  Core(s): 2 @ 2.3 GHZ
+  OS: Windows NT 6.1 64-bit
+Physics System
